@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842562771477",
+    "project_id": "newprojectacademia",
+    "storage_bucket": "newprojectacademia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842562771477:android:370a0dec089aa4bae04c1c",
+        "android_client_info": {
+          "package_name": "com.nascimentoSantana.projetoacademia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842562771477-4ei5p2bc811o2h1pa4s2t321vqjs48dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9XQbk9PJLdaDid1TlczLfKoD7Y8oCwMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842562771477-4ei5p2bc811o2h1pa4s2t321vqjs48dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
